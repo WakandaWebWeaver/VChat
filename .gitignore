@@ -1,2 +1,3 @@
 
 *.DS_Store
+v_chat/lib/services/spotify_service.dart
